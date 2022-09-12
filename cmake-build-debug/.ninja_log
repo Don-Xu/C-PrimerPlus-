@@ -1,3 +1,19 @@
 # ninja log v5
-0	259	6846594312435147	CMakeFiles/CppPrimerPlus.dir/test.cpp.obj	d224f66bd57d788
-260	363	6846594313445177	CppPrimerPlus.exe	fef7d73e05349c79
+3	232	6846952939761984	CMakeFiles/CppPrimerPlus.dir/test.cpp.obj	d224f66bd57d788
+230	306	6846955458881746	CppPrimerPlus.exe	75bb183c5655131
+1	138	6846955536894124	build.ninja	e733ccf074598510
+0	229	6846955458141762	CMakeFiles/CppPrimerPlus.dir/Chapter2.cpp.obj	a6cbf07294b7fa3
+3	237	6846956539730615	CMakeFiles/CppPrimerPlus.dir/Chapter2.cpp.obj	a6cbf07294b7fa3
+237	325	6846956540574444	CppPrimerPlus.exe	75bb183c5655131
+3	247	6846959497462319	CMakeFiles/CppPrimerPlus.dir/Chapter2.cpp.obj	a6cbf07294b7fa3
+248	332	6846959498282276	CppPrimerPlus.exe	75bb183c5655131
+3	236	6846959698560134	CMakeFiles/CppPrimerPlus.dir/Chapter2.cpp.obj	a6cbf07294b7fa3
+238	318	6846959699340136	CppPrimerPlus.exe	75bb183c5655131
+3	244	6846968391373770	CMakeFiles/CppPrimerPlus.dir/Chapter2.cpp.obj	a6cbf07294b7fa3
+245	328	6846968392173829	CppPrimerPlus.exe	75bb183c5655131
+2	242	6846976257700322	CMakeFiles/CppPrimerPlus.dir/Chapter2.cpp.obj	a6cbf07294b7fa3
+242	323	6846976258470361	CppPrimerPlus.exe	75bb183c5655131
+3	240	6846982011852483	CMakeFiles/CppPrimerPlus.dir/Chapter2.cpp.obj	a6cbf07294b7fa3
+241	326	6846982012672491	CppPrimerPlus.exe	75bb183c5655131
+2	237	6846983696686498	CMakeFiles/CppPrimerPlus.dir/Chapter2.cpp.obj	a6cbf07294b7fa3
+238	319	6846983697466542	CppPrimerPlus.exe	75bb183c5655131

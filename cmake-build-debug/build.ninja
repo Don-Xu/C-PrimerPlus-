@@ -49,8 +49,8 @@ cmake_ninja_workdir = C$:/Users/69037/Dev/proj/cpp/CppPrimerPlus/cmake-build-deb
 
 build cmake_object_order_depends_target_CppPrimerPlus: phony || CMakeFiles/CppPrimerPlus.dir
 
-build CMakeFiles/CppPrimerPlus.dir/test.cpp.obj: CXX_COMPILER__CppPrimerPlus_Debug C$:/Users/69037/Dev/proj/cpp/CppPrimerPlus/test.cpp || cmake_object_order_depends_target_CppPrimerPlus
-  DEP_FILE = CMakeFiles\CppPrimerPlus.dir\test.cpp.obj.d
+build CMakeFiles/CppPrimerPlus.dir/Chapter2.cpp.obj: CXX_COMPILER__CppPrimerPlus_Debug C$:/Users/69037/Dev/proj/cpp/CppPrimerPlus/Chapter2.cpp || cmake_object_order_depends_target_CppPrimerPlus
+  DEP_FILE = CMakeFiles\CppPrimerPlus.dir\Chapter2.cpp.obj.d
   FLAGS = -g -std=gnu++14
   INCLUDES = -IC:/Users/69037/Dev/proj/cpp/CppPrimerPlus/.
   OBJECT_DIR = CMakeFiles\CppPrimerPlus.dir
@@ -64,7 +64,7 @@ build CMakeFiles/CppPrimerPlus.dir/test.cpp.obj: CXX_COMPILER__CppPrimerPlus_Deb
 #############################################
 # Link the executable CppPrimerPlus.exe
 
-build CppPrimerPlus.exe: CXX_EXECUTABLE_LINKER__CppPrimerPlus_Debug CMakeFiles/CppPrimerPlus.dir/test.cpp.obj
+build CppPrimerPlus.exe: CXX_EXECUTABLE_LINKER__CppPrimerPlus_Debug CMakeFiles/CppPrimerPlus.dir/Chapter2.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\CppPrimerPlus.dir

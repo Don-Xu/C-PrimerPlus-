@@ -234,6 +234,15 @@ CMAKE_STRIP:FILEPATH=C:/Users/69037/Development Tools/clion/CLion 2022.2.1/bin/m
 CMAKE_VERBOSE_MAKEFILE:BOOL=FALSE
 
 //Value Computed by CMake
+Chapter-2_BINARY_DIR:STATIC=C:/Users/69037/Dev/proj/cpp/CppPrimerPlus/cmake-build-debug/Chapter-2
+
+//Value Computed by CMake
+Chapter-2_IS_TOP_LEVEL:STATIC=OFF
+
+//Value Computed by CMake
+Chapter-2_SOURCE_DIR:STATIC=C:/Users/69037/Dev/proj/cpp/CppPrimerPlus/Chapter-2
+
+//Value Computed by CMake
 CppPrimerPlus_BINARY_DIR:STATIC=C:/Users/69037/Dev/proj/cpp/CppPrimerPlus/cmake-build-debug
 
 //Value Computed by CMake
